@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/jayvardhan2111"/>
+
+  <default revision="main" remote="origin" sync-j="4"/>
+
+  <project path="project1" name="myrepo.git"/>
+  <project path="project2" name="web_app.git" />
+</manifest>
